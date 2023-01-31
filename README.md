@@ -1,6 +1,6 @@
 <h1 class="center"> Avant de commencer </h1>
     Tu dois commencer par installer Angular/cli sur ta machine
-    
+
         - npm install -g @angular/cli.
 
 <h2 class="center"> Commande a connaître </h2>
@@ -17,7 +17,7 @@
         Cette commande te permet d'ouvrir ton dossier dans ton navigateur web.
 
     Si vous voulez explorer plus de commande dans ce language tout est expliquer sur leur site.
-        https://angular.io/cli
+        (%@)[https://angular.io/cli]
 
 <h3 class="center"> Commençons </h3>
 
