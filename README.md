@@ -17,7 +17,7 @@
         Cette commande te permet d'ouvrir ton dossier dans ton navigateur web.
 
     Si vous voulez explorer plus de commande dans ce language tout est expliquer sur leur site.
-        (%@)[https://angular.io/cli]
+        <a href="https://angular.io/cli">Angular-Doc</a>
 
 <h3 class="center"> Commençons </h3>
 
