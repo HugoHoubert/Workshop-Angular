@@ -1,5 +1,6 @@
 <h1 class="center"> Avant de commencer </h1>
     Tu dois commencer par installer Angular/cli sur ta machine
+    
         - npm install -g @angular/cli.
 
 <h2 class="center"> Commande a connaître </h2>
@@ -11,7 +12,7 @@
 
     - ng generate {{ componente / service }} { name_of_your_file }
         Cette commande te permet de crée de nouveau componant de travail.
-        
+
     - ng serve { --open }
         Cette commande te permet d'ouvrir ton dossier dans ton navigateur web.
 
