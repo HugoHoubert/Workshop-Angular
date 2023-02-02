@@ -24,10 +24,15 @@ Si vous voulez explorer plus de commande dans ce language tout est expliquer sur
 [Angular Doc](https://angular.io/cli)
 
 ## Commençons
+Tout d'abord faut config tailwind css qui permeteras de crée ton style de page.
+
+<img src="asset/tailwind.png" class="justify-center">
+
+Pour toutes les commandes [Tailwind Doc](https://tailwindui.com/components)
+
 
 Une fois votre projet crée nous allons commencer remplaçé le index.html
 par :  
-
 ```
 <!doctype html>
 <html lang="en">
@@ -44,6 +49,3 @@ par :
 </body>
 </html>
 ```
-
-<img src="asset/tailwind.png" class="justify-center">
-
