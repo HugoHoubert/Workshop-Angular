@@ -3,6 +3,10 @@
 ## Avant de commencer
 Tu dois commencer par installer Angular/cli sur ta machine
 - npm install -g @angular/cli.
+Tu dois installer aussi TailwindCSS pour le style du projet.
+
+npm install -D tailwindcss
+npx tailwindcss init
 
 ## Commande a connaître
 - ng new { Name_of_the_project }  
