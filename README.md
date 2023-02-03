@@ -61,9 +61,9 @@ Dans le composant que tu viens de crée tu as un {{le composant que ta crée}}.c
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-header',
-  templateUrl: './header.component.html',
-  styleUrls: ['./header.component.scss']
+  selector: 'app-root',
+  templateUrl: './app.component.html',
+  styleUrls: ['./app.component.scss']
 })
 export class HeaderComponent {
 
