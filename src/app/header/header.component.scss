@@ -1,0 +1,66 @@
+h3 {
+    color: #eee;
+    font-size: 1.6em;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    width: 500px;
+    margin: 0 auto;
+    border: 3px solid #eee;
+    border-radius: 5px;
+    padding: 30px;
+    padding-top: 20px;
+    margin-top: 50px;
+    box-shadow: 0 0 5px 0 #eee;
+}
+
+form div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+label {
+    font-size: 1.2em;
+    font-weight: 600;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+input, textarea {
+    margin-bottom: 15px;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid #eee;
+    width: 500px;
+    background-color: transparent;
+    color: #eee;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 5px;
+}
+
+button {
+    width: 500px;
+    height: 40px;
+    background-color: #eee;
+    color: rgb(46, 46, 46);
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    box-shadow: 0 0 5px 0 #eee;
+}
+
