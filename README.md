@@ -7,11 +7,15 @@ Ou si tu ne veux pas envoyer de mail tu peux Fork le projet en haut a droite et 
 
 ## Avant de commencer
 Tu dois commencer par installer Angular/cli sur ta machine
-- npm install -g @angular/cli.
+```
+- npm install -g @angular/cli
+```
 Tu dois installer aussi TailwindCSS pour le style du projet.
 
+```
 npm install -D tailwindcss
 npx tailwindcss init
+```
 
 ## Commande a connaître
 - ng new { Name_of_the_project }  
